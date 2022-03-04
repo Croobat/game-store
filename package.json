@@ -1,0 +1,40 @@
+{
+    "name": "game-store",
+    "version": "1.0.0",
+    "description": "React-eshop",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Croobat/game-store.git"
+    },
+    "keywords": [
+        "react",
+        "javascript",
+        "store",
+        "game"
+    ],
+    "author": "Tony Ramírez <tonyram9906@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Croobat/game-store/issues"
+    },
+    "homepage": "https://github.com/Croobat/game-store#readme",
+    "dependencies": {
+        "babel-loader": "^8.2.3",
+        "html-loader": "^3.1.0",
+        "html-webpack-plugin": "^5.5.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.17.5",
+        "@babel/preset-env": "^7.16.11",
+        "@babel/preset-react": "^7.16.7",
+        "webpack": "^5.70.0",
+        "webpack-cli": "^4.9.2",
+        "webpack-dev-server": "^4.7.4"
+    }
+}
